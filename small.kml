@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled map</name>
+	<gx:CascadingStyle kml:id="__managed_style_3398D8735B3B2B341696">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_201A7493AF3B2B341696">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_1F3887E03E3B2B341696">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_201A7493AF3B2B341696</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_3398D8735B3B2B341696</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0A7FD42BC73B2B34168F">
+		<name>north terrace</name>
+		<LookAt>
+			<longitude>138.5889489575023</longitude>
+			<latitude>-34.92271331499221</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>955.8173363023535</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F3887E03E3B2B341696</styleUrl>
+		<LineString>
+			<coordinates>
+				138.5874441980144,-34.9222000661305,0 138.5893498146021,-34.92211411423979,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0DAB67B3523B2B342D5C">
+		<name>gray street</name>
+		<LookAt>
+			<longitude>138.5889489575023</longitude>
+			<latitude>-34.92271331499221</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>955.8173363023535</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F3887E03E3B2B341696</styleUrl>
+		<LineString>
+			<coordinates>
+				138.5893498146441,-34.92212422732553,0 138.5894114900679,-34.92304451747174,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08A93201963B2B345B08">
+		<name>rose st</name>
+		<LookAt>
+			<longitude>138.5889489575023</longitude>
+			<latitude>-34.92271331499221</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>955.8173363023535</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F3887E03E3B2B341696</styleUrl>
+		<LineString>
+			<coordinates>
+				138.5893991556566,-34.9230091217368,0 138.5875181871699,-34.9231051889498,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="088E19129F3B2B3473DC">
+		<name>newmarket st</name>
+		<LookAt>
+			<longitude>138.5889489575023</longitude>
+			<latitude>-34.92271331499217</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>955.8173362970248</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F3887E03E3B2B341696</styleUrl>
+		<LineString>
+			<coordinates>
+				138.5885851024333,-34.9221545667155,0 138.588634435378,-34.92304451791776,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="01CB72E2183B2B348D88">
+		<name>Hindley</name>
+		<LookAt>
+			<longitude>138.5889489575023</longitude>
+			<latitude>-34.92271331499217</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>955.8173362970248</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F3887E03E3B2B341696</styleUrl>
+		<LineString>
+			<coordinates>
+				138.5875428465937,-34.92358556163848,0 138.5894423285779,-34.92349960635804,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="08933A5C7E3B2B34CEA0">
+		<name>Gray.2 st</name>
+		<LookAt>
+			<longitude>138.5894709461373</longitude>
+			<latitude>-34.92315882248738</latitude>
+			<altitude>-7.073241992117119e-10</altitude>
+			<heading>1.432391550599505</heading>
+			<tilt>0.1430611395250976</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>350.6689620225298</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_1F3887E03E3B2B341696</styleUrl>
+		<LineString>
+			<coordinates>
+				138.589408429335,-34.92305639580514,0 138.5894324165501,-34.92345766057929,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" hint="gx:Track">
+    <Document id="1">
+        <Style id="2">
+            <LineStyle id="3">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <width>4</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="5">
+            <name>Planned Route</name>
+            <styleUrl>#2</styleUrl>
+            <gx:Track>
+                <when>2025-10-19T13:44:00Z</when>
+                <when>2025-10-19T13:44:00Z</when>
+                <when>2025-10-19T13:45:05.643981Z</when>
+                <when>2025-10-19T13:45:05.643981Z</when>
+                <when>2025-10-19T13:45:38.334032Z</when>
+                <when>2025-10-19T13:45:54.346124Z</when>
+                <when>2025-10-19T13:46:10.358216Z</when>
+                <when>2025-10-19T13:46:18.364262Z</when>
+                <when>2025-10-19T13:47:05.006816Z</when>
+                <when>2025-10-19T13:47:37.030999Z</when>
+                <when>2025-10-19T13:47:45.037045Z</when>
+                <when>2025-10-19T13:47:53.043091Z</when>
+                <when>2025-10-19T13:48:25.067274Z</when>
+                <when>2025-10-19T13:49:29.451155Z</when>
+                <when>2025-10-19T13:50:33.835036Z</when>
+                <when>2025-10-19T13:51:20.477590Z</when>
+                <when>2025-10-19T13:51:59.863547Z</when>
+                <when>2025-10-19T13:52:32.685178Z</when>
+                <when>2025-10-19T13:52:39.249504Z</when>
+                <when>2025-10-19T13:52:47.255550Z</when>
+                <when>2025-10-19T13:52:55.261596Z</when>
+                <when>2025-10-19T13:53:27.951642Z</when>
+                <when>2025-10-19T13:54:00.641688Z</when>
+                <when>2025-10-19T13:54:08.647734Z</when>
+                <when>2025-10-19T13:54:16.653780Z</when>
+                <when>2025-10-19T13:54:24.659826Z</when>
+                <when>2025-10-19T13:54:48.677963Z</when>
+                <when>2025-10-19T13:54:48.677963Z</when>
+                <when>2025-10-19T13:54:56.684009Z</when>
+                <when>2025-10-19T13:55:09.812581Z</when>
+                <when>2025-10-19T13:55:09.812581Z</when>
+                <when>2025-10-19T13:55:22.941153Z</when>
+                <when>2025-10-19T13:55:42.634011Z</when>
+                <when>2025-10-19T13:57:01.811300Z</when>
+                <when>2025-10-19T13:57:54.325653Z</when>
+                <when>2025-10-19T13:58:09.702805Z</when>
+                <when>2025-10-19T13:58:25.079957Z</when>
+                <when>2025-10-19T13:58:33.086003Z</when>
+                <when>2025-10-19T13:59:21.568722Z</when>
+                <when>2025-10-19T13:59:21.568722Z</when>
+                <when>2025-10-19T13:59:45.586859Z</when>
+                <when>2025-10-19T14:00:09.604996Z</when>
+                <when>2025-10-19T14:00:17.611042Z</when>
+                <when>2025-10-19T14:00:56.997479Z</when>
+                <when>2025-10-19T14:01:03.561885Z</when>
+                <when>2025-10-19T14:01:51.598160Z</when>
+                <when>2025-10-19T14:02:48.023616Z</when>
+                <when>2025-10-19T14:03:44.449072Z</when>
+                <when>2025-10-19T14:04:32.485347Z</when>
+                <when>2025-10-19T14:04:32.485347Z</when>
+                <when>2025-10-19T14:04:39.049753Z</when>
+                <when>2025-10-19T14:04:45.614159Z</when>
+                <when>2025-10-19T14:04:52.178565Z</when>
+                <when>2025-10-19T14:05:31.565002Z</when>
+                <when>2025-10-19T14:06:24.080251Z</when>
+                <when>2025-10-19T14:06:32.086297Z</when>
+                <when>2025-10-19T14:06:40.092343Z</when>
+                <when>2025-10-19T14:07:26.735394Z</when>
+                <when>2025-10-19T14:08:32.379375Z</when>
+                <when>2025-10-19T14:08:38.943773Z</when>
+                <when>2025-10-19T14:08:46.949819Z</when>
+                <when>2025-10-19T14:08:53.514209Z</when>
+                <when>2025-10-19T14:09:01.520255Z</when>
+                <when>2025-10-19T14:09:09.526301Z</when>
+                <when>2025-10-19T14:09:16.090691Z</when>
+                <when>2025-10-19T14:09:24.096737Z</when>
+                <when>2025-10-19T14:09:30.661135Z</when>
+                <gx:coord>138.5876 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5876 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5876 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5886 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5886 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5887 -34.9228 0.0</gx:coord>
+                <gx:coord>138.5887 -34.9228 0.0</gx:coord>
+                <gx:coord>138.5887 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5887 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5894 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5894 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5894 -34.9235 0.0</gx:coord>
+                <gx:coord>138.5894 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5894 -34.923 0.0</gx:coord>
+                <gx:coord>138.5894 -34.923 0.0</gx:coord>
+                <gx:coord>138.5887 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5887 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5876 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5876 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5875 -34.923 0.0</gx:coord>
+                <gx:coord>138.5875 -34.923 0.0</gx:coord>
+                <gx:coord>138.5874 -34.9225 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9229 0.0</gx:coord>
+                <gx:coord>138.5875 -34.923 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9231 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9232 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9235 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9235 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9236 0.0</gx:coord>
+                <gx:coord>138.5877 -34.9236 0.0</gx:coord>
+                <gx:coord>138.5877 -34.9236 0.0</gx:coord>
+                <gx:coord>138.5879 -34.9236 0.0</gx:coord>
+                <gx:coord>138.5882 -34.9236 0.0</gx:coord>
+                <gx:coord>138.5894 -34.9235 0.0</gx:coord>
+                <gx:coord>138.5902 -34.9235 0.0</gx:coord>
+                <gx:coord>138.5904 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5904 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5902 -34.9235 0.0</gx:coord>
+                <gx:coord>138.5902 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5901 -34.9228 0.0</gx:coord>
+                <gx:coord>138.5901 -34.9225 0.0</gx:coord>
+                <gx:coord>138.5901 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5901 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5901 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5908 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5908 -34.9227 0.0</gx:coord>
+                <gx:coord>138.5909 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5909 -34.9234 0.0</gx:coord>
+                <gx:coord>138.5908 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5908 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5908 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5909 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5908 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5907 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5901 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5893 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5893 -34.9221 0.0</gx:coord>
+                <gx:coord>138.5886 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5876 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9222 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9223 0.0</gx:coord>
+                <gx:coord>138.5874 -34.9223 0.0</gx:coord>
+                <gx:coord>138.5874 -34.9224 0.0</gx:coord>
+                <gx:coord>138.5874 -34.9224 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9223 0.0</gx:coord>
+                <gx:coord>138.5875 -34.9223 0.0</gx:coord>
+                <gx:coord>138.5876 -34.9222 0.0</gx:coord>
+                <altitudeMode>clampToGround</altitudeMode>
+            </gx:Track>
+        </Placemark>
+    </Document>
+</kml>
